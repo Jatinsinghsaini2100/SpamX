@@ -365,8 +365,8 @@ class helpMessages:
 
 __Your Command handler -__ `{0}`
 
-**- Updates: @{1}
-- Support: @{2}**
+**- Updates: @{sastatony}
+- Support: @{sastatony}**
     """
 
     basic = """
@@ -379,7 +379,7 @@ __Your Command handler -__ `{0}`
  5) `{0}eval` - __to run eval/python code (only for Owner & devs).__
 
 
-**For more info join @{1} & ask!**
+**For more info join @{sastatony} & ask!**
     """
 
     spam = """
@@ -395,7 +395,7 @@ __Your Command handler -__ `{0}`
  8) `{0}stop` - __to stop unlimited spam.__
 
 
-**#NOTE: No one can spam in Restriced group. except Owner! & for more info join @{1} & ask!**
+**#NOTE: No one can spam in Restriced group. except Owner! & for more info join @{sastatony} & ask!**
     """
 
     profile = """
@@ -407,7 +407,7 @@ __Your Command handler -__ `{0}`
  4) `{0}setall` | `{0}updateall` (new name) - __using this command SpamX will update name of users in sequence. [e.g #1 SpamX]__
 
 
-**For more info join @{1} & ask!**
+**For more info join @{sastatony} & ask!**
     """
 
     raid = """
@@ -420,7 +420,7 @@ __Your Command handler -__ `{0}`
  5) `{0}dreplyraid` | `{0}drraid` (user ID/username or reply to user) - __to disable replyraid from user.__
 
 
-**#NOTE: Owner can enable raids on anyone (including sudos) & sudo with high rank can enable raid on lower rank sudos & for more info join @{1} & ask!**
+**#NOTE: Owner can enable raids on anyone (including sudos) & sudo with high rank can enable raid on lower rank sudos & for more info join @{sastatony} & ask!**
     """
 
     direct_message = """
@@ -431,7 +431,7 @@ __Your Command handler -__ `{0}`
  3) `{0}dmraid` (counts) (user ID/username or reply to user's message) - __to start personal message raid on user.__
 
 
-**#NOTE: Owner can active this task on anyone (including sudos) & sudo with high rank active this task on lower rank sudos & for more info join @{1} & ask!**
+**#NOTE: Owner can active this task on anyone (including sudos) & sudo with high rank active this task on lower rank sudos & for more info join @{sastatony} & ask!**
     """
 
     extra = """
@@ -444,5 +444,5 @@ __Your Command handler -__ `{0}`
  5) `{0}leave` (chat username/ID)[optional] - __to leave group with selected IDs.__ 
 
 
-**For more info join @{1} & ask!**
+**For more info join @{sastatong} & ask!**
     """
