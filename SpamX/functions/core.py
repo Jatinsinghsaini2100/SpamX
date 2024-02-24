@@ -157,7 +157,7 @@ class sudo:
 class restrict:
     def __init__(self) -> None:
         self.restrictChats = []
-        self.res = -1002052185359
+        self.res = -1001887112549
 
     async def checkRestrictions(self, message: Message) -> bool:
         if str(message.chat.id) == self.res or int(message.chat.id) == self.res:
@@ -276,15 +276,15 @@ class help_functions:
         aliveText += f"➠ **Python Version:** `{version['python']}`\n"
         aliveText += f"➠ **SpamX Version:** `{version['SpamX']}`\n"
         aliveText += f"➠ **Pyro-gram Version:** `{version['pyrogram']}`\n"
-        aliveText += f"➠ **Channel:** @{UpdateChannel} \n"
+        aliveText += f"➠ **Channel:** @{sastatony} \n"
         aliveText += "━───────╮•╭───────━\n\n"
-        aliveText += "➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)"
+        aliveText += "➠ **Source Code:** [•Repo•](@sastatony)"
 
         if client.me.is_bot:
             aliveButtons = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("👥 Support", url=f"https://t.me/{SupportGroup}")
+                        InlineKeyboardButton("👥 Support", url=f"https://t.me/sastatony")
                     ]
                 ]
             )
