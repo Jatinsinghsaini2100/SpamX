@@ -62,7 +62,7 @@ class SpamX(Client):
         self.startTime = StartTime
         self.activeTasks = activeTasks
         self.dev = devs
-        self.logo= "https://telegra.ph//file/08445817174872b47cef8.jpg"
+        self.logo= "https://telegra.ph/file/3c7afc5e543e52ed74e8e.jpg"
 
     async def StartAllClients(self):
         LOGS.info("Loading all sessions.....")
